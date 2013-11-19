@@ -1,0 +1,17 @@
+#dir, #select li{
+	list-style-type:none;
+	line-height: 150%;
+}
+
+.checked {
+	border: 1px;
+}
+
+.popover {
+	max-width: 1000px;
+	width:auto;
+}
+
+.panel-default>.selected { 
+	background-color: #66CCFF;
+}
